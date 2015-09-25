@@ -1,3 +1,5 @@
+/* Functions to help with Opencv images*/
+
 #include "image_utils.h"
 
 
